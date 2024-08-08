@@ -1,0 +1,16 @@
+body {
+	background-color: rgba(239,237, 237, 1);
+}
+
+.form-outline {
+	background-color: #ffabbb; 
+	border-radius: 1.25rem;
+}
+
+.form_text {
+	height: 250px;
+}
+
+.table > :not(caption) > * > * {
+    background-color: transparent !important;
+  }
